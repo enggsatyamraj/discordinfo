@@ -5,7 +5,7 @@ const page = () => {
   return (
     <div>
       <h1>DiscordInfo</h1>
-      <Link to="https://discordarena.vercel.app">discord</Link>
+      <Link href="https://discordarena.vercel.app">discord</Link>
     </div>
   );
 };
